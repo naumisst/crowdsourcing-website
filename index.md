@@ -1,4 +1,7 @@
-# Selamat Datang di Crowdsourcing Website!
-Upload gambar kamu dan bantu rekonstruksi 3D Gedung Dekanat.
+---
+layout: default
+title: Crowdsourcing Website
+---
 
-Klik [di sini](https://naumist.github.io/crowdsourcing-website/) untuk berkontribusi.
+# Kumpulkan Gambar Gedung Dekanat!
+Upload foto kamu di sini untuk membantu rekonstruksi 3D 🎉.
